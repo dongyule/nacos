@@ -1,0 +1,8 @@
+/.idea
+/storage
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+/Log
+Temp
